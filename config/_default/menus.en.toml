@@ -35,15 +35,15 @@
   pageRef = "daily"
   weight = 10
 
-[[main]]
-  name = "Links"
-  pageRef = "lynk"
-  url = "https://diwahsap.github.io/links"
-  weight = 20
-  [main.params]
-    icon = "link"
-    showName = false
-    target = "_blank"
+# [[main]]
+#   name = "Links"
+#   pageRef = "lynk"
+#   url = "https://diwahsap.github.io/links"
+#   weight = 20
+#   [main.params]
+#     icon = "link"
+#     showName = false
+#     target = "_blank"
 
 [[main]]
   identifier = "search"
