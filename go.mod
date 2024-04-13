@@ -1,5 +1,5 @@
 module diwahsap-blog
 
-go 1.23
+go 1.22.2
 
-require github.com/jpanther/congo/v2 v2.7.6 // indirect
+require github.com/jpanther/congo/v2 v2.8.1 // indirect
