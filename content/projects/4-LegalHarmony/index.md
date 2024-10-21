@@ -1,5 +1,5 @@
 ---
-title: "Text Analytics Using TF-IDF for Identifying Regulatory Alignment in Indonesia's Investment Sector"
+title: "Text Analytics for Identifying Regulatory Alignment in Indonesia's Investment Sector"
 date: 2023-08-22
 externalUrl: "https://github.com/diwahsap/legal-streamlit"
 thumbnail: "images/thumbnail.jpg"
