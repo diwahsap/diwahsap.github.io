@@ -1,3 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Random on Home</title><link>/tags/random/</link><description>Recent content in Random on Home</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/random/index.xml" rel="self" type="application/rss+xml"/><item><title>Kapan wisuda?</title><link>/daily/5-kapanwisuda/</link><pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate><guid>/daily/5-kapanwisuda/</guid><description>Siapa yang membaca tulisan ini karena judulnya? Tulisan ini ada karena obrolan singkat hari ini ahahahahaha Selamat Idul Fitri, minal aidin wal faizin yaaa^^</description></item><item><title>Be a Guide, Not a Guru</title><link>/daily/3-beaguide/</link><pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate><guid>/daily/3-beaguide/</guid><description>Halo. Baru aja aku nemuin tweet yang cukup menarik.
-Tweet yang menarik dari Twitter Tweet di atas membahas mengenai alasan kenapa orang maju mundur ketika ingin membuat konten.</description></item><item><title>Tulisan Perdana!</title><link>/daily/2-tulisanpertama/</link><pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate><guid>/daily/2-tulisanpertama/</guid><description>Halo, namaku Dimas. Ini adalah tulisan perdanaku di rumah baru ini. Menurut kalian, gimana?
-Sejujurnya, aku menghabiskan waktu berbulan-bulan untuk mencari &amp;ldquo;kandidat&amp;rdquo; yang sempurna.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Random on Home</title><link>/tags/random/</link><description>Recent content in Random on Home</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/random/index.xml" rel="self" type="application/rss+xml"/><item><title>Kapan wisuda?</title><link>/daily/5-kapanwisuda/</link><pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate><guid>/daily/5-kapanwisuda/</guid><description>&lt;p>Siapa yang membaca tulisan ini karena judulnya? Tulisan ini ada karena obrolan singkat hari ini ahahahahaha
+Selamat Idul Fitri, minal aidin wal faizin yaaa^^&lt;/p></description></item><item><title>Be a Guide, Not a Guru</title><link>/daily/3-beaguide/</link><pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate><guid>/daily/3-beaguide/</guid><description>&lt;p>Halo. Baru aja aku nemuin tweet yang cukup menarik.&lt;/p>
+&lt;p>
+
+
+
+
+
+&lt;figure>
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ &lt;picture
+ class="mx-auto my-0 rounded-md"
+ 
+ >
+ 
+ 
+ 
+ 
+ &lt;source
+ 
+ srcset="/daily/3-beaguide/images/tweet-1_hu16690677598997188921.webp 330w,/daily/3-beaguide/images/tweet-1_hu15618892124253199989.webp 660w
+ 
+ ,/daily/3-beaguide/images/tweet-1_hu2801771731631000574.webp 1024w
+ 
+ 
+ 
+ ,/daily/3-beaguide/images/tweet-1_hu14217078644506623642.webp 1200w
+ 
+ "
+ 
+ sizes="100vw"
+ type="image/webp"
+ />
+ 
+ &lt;img
+ width="1200"
+ height="627"
+ class="mx-auto my-0 rounded-md"
+ alt="Tweet dari Botakasu"
+ loading="lazy" decoding="async"
+ 
+ src="/daily/3-beaguide/images/tweet-1_hu17065951633877768082.jpg"
+ srcset="/daily/3-beaguide/images/tweet-1_hu2086933626669271001.jpg 330w,/daily/3-beaguide/images/tweet-1_hu17065951633877768082.jpg 660w
+ 
+ ,/daily/3-beaguide/images/tweet-1_hu9993720916607930315.jpg 1024w
+ 
+ 
+ ,/daily/3-beaguide/images/tweet-1.jpg 1200w
+ "
+ sizes="100vw"
+ 
+ />
+ &lt;/picture>
+ 
+
+&lt;figcaption class="text-center">Tweet yang menarik dari &lt;a href="https://x.com/narawastu/status/1734860793706103217?s=20" target="_blank" rel="noreferrer">Twitter&lt;/a>&lt;/figcaption>
+&lt;/figure>
+&lt;/p></description></item><item><title>Tulisan Perdana!</title><link>/daily/2-tulisanpertama/</link><pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate><guid>/daily/2-tulisanpertama/</guid><description>&lt;p>Halo, namaku Dimas. Ini adalah tulisan perdanaku di rumah baru ini. Menurut kalian, gimana?&lt;/p>
+&lt;p>Sejujurnya, aku menghabiskan waktu berbulan-bulan untuk mencari &amp;ldquo;kandidat&amp;rdquo; yang sempurna. Aku melihat banyak laman orang lain sebagai contoh, mencoba banyak teknologi yang ada, dan menyesuaikan dengan kemampuanku juga. Akhirnya, aku memiliih &lt;strong>Congo&lt;/strong>. Bukan, bukan negara, tapi sebuah tema untuk Hugo, generator web statis yang ditulis dalam bahasa pemrograman Go.&lt;/p></description></item></channel></rss>
