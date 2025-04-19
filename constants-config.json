@@ -2,7 +2,7 @@
 	"database-id": "1daabf27d9d8804ca9d6c9501e871532",
 	"author": "Dimas Wahyu Saputro",
 	"tracking": {
-		"google-analytics": { "use-ga": true, "public-ga-tracking-id": "G-486368488" },
+		"google-analytics": { "use-ga": true, "public-ga-tracking-id": "G-0QKD8DEB6K" },
 		"umami": {
 			"use-umami": false,
 			"data-website-id": "",
@@ -13,7 +13,7 @@
 	"google-search-console-html-tag": "",
 	"socials": {
 		"email": "mailto:diwahsap@gmail.com",
-		"github": "github.com/diwahsap",
+		"github": "https://github.com/diwahsap",
 		"googlescholar": "",
 		"semanticscholar": "",
 		"dblp": "",
