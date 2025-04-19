@@ -1,11 +1,8 @@
 {
-	"database-id": "169b6e632b7448529120599281265ac5",
-	"author": "",
+	"database-id": "1daabf27d9d8804ca9d6c9501e871532",
+	"author": "Dimas Wahyu Saputro",
 	"tracking": {
-		"google-analytics": {
-			"use-ga": true,
-			"public-ga-tracking-id": ""
-		},
+		"google-analytics": { "use-ga": true, "public-ga-tracking-id": "G-486368488" },
 		"umami": {
 			"use-umami": false,
 			"data-website-id": "",
@@ -15,8 +12,8 @@
 	},
 	"google-search-console-html-tag": "",
 	"socials": {
-		"email": "",
-		"github": "",
+		"email": "mailto:diwahsap@gmail.com",
+		"github": "github.com/diwahsap",
 		"googlescholar": "",
 		"semanticscholar": "",
 		"dblp": "",
@@ -24,21 +21,22 @@
 		"facebook": "",
 		"twitter": "",
 		"threads": "",
-		"instagram": "",
+		"instagram": "https://www.instagram.com/diwahsap",
 		"mastodon": "",
 		"bluesky": "",
 		"calendar": "",
 		"kofi": "",
 		"buy-me-a-coffee": "",
-		"this-github-repo": "https://github.com/nerdymomocat-templates/webtrotion-astro-notion-cms-website-blog"
+		"this-github-repo": ""
 	},
 	"custom-domain": "",
 	"base-path": "",
 	"giscus": {
-		"data-repo": "nerdymomocat-templates/webtrotion-astro-notion-cms-website-blog",
-		"data-repo-id": "R_kgDOK0FuUA",
+		"use-giscus": true,
+		"data-repo": "diwahsap/diwahsap.github.io",
+		"data-repo-id": "R_kgDOOcRhAg",
 		"data-category": "Announcements",
-		"data-category-id": "DIC_kwDOK0FuUM4CbZ5A",
+		"data-category-id": "DIC_kwDOOcRhAs4CpQn6",
 		"data-mapping": "pathname",
 		"data-input-position": "top",
 		"data-reactions-enabled": true
