@@ -78,28 +78,28 @@
 	"theme": {
 		"colors": {
 			"bg": {
-				"light": "248 248 248",
-				"dark": "21 21 21"
+				"light": "249 249 249",
+				"dark": "28 30 32"
 			},
 			"text": {
-				"light": "19 21 22",
-				"dark": "242 243 244"
+				"light": "34 39 42",
+				"dark": "255 255 255"
 			},
 			"link": {
-				"light": "19 69 137",
-				"dark": "136 207 243"
+				"light": "67 96 132",
+				"dark": "72 152 238"
 			},
 			"accent": {
-				"light": "208 83 0",
-				"dark": "243 172 136"
+				"light": "93 44 187",
+				"dark": "248 246 254"
 			},
 			"accent-2": {
-				"light": "184 5 59",
-				"dark": "243 136 154"
+				"light": "17 17 17",
+				"dark": "237 237 237"
 			},
 			"quote": {
-				"light": "113 135 47",
-				"dark": "207 243 136"
+				"light": "203 41 65",
+				"dark": "205 254 183"
 			}
 		},
 		"fontfamily-google-fonts": {
@@ -108,7 +108,7 @@
 			"serif-font-name": "",
 			"mono-font-name": "Geist\\ Mono"
 		}
-    },
+	},
     "webmention": {
         "webmention-api-key": "",
         "webmention-link": ""
