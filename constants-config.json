@@ -36,13 +36,13 @@
     "base-path": "",
     "giscus": {
         "use-giscus": false,
-        "data-repo": "diwahsap/diwahsap.github.io",
-        "data-repo-id": "R_kgDOOcRhAg",
-        "data-category": "Announcements",
-        "data-category-id": "DIC_kwDOOcRhAs4CpQn6",
-        "data-mapping": "pathname",
-        "data-input-position": "top",
-        "data-reactions-enabled": true
+        "data-repo": "",
+        "data-repo-id": "",
+        "data-category": "",
+        "data-category-id": "",
+        "data-mapping": "",
+        "data-input-position": "",
+        "data-reactions-enabled": false
     },
     "bluesky-comments": {
         "show-comments-from-bluesky": false,
@@ -57,8 +57,8 @@
         "external-links-in-page": false,
         "media-and-file-links-in-this-page": false,
         "links-to-this-page": false,
-        "popovers": true,
-        "footnotes": true
+        "popovers": false,
+        "footnotes": false
     },
     "shortcodes": {
         "html-render": "<!DOCTYPE html> <!-- iframe -->",
@@ -113,7 +113,7 @@
         "webmention-api-key": "",
         "webmention-link": ""
     },
-    "number-of-posts-per-page": 10,
+    "number-of-posts-per-page": 5,
     "enable-lightbox": true,
     "menu-pages-collection": "main",
     "heading-blocks": [
