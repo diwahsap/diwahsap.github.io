@@ -35,7 +35,7 @@
     "custom-domain": "",
     "base-path": "",
     "giscus": {
-        "use-giscus": true,
+        "use-giscus": false,
         "data-repo": "diwahsap/diwahsap.github.io",
         "data-repo-id": "R_kgDOOcRhAg",
         "data-category": "Announcements",
