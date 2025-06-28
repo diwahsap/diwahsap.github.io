@@ -115,13 +115,13 @@
     },
     "number-of-posts-per-page": 10,
     "enable-lightbox": true,
-    "menu-pages-collection": "The Lab",
+    "menu-pages-collection": "main",
     "heading-blocks": [
-        "main"
+        "The Lab"
     ],
     "full-preview-collections": [
-        "The Feed",
-				"The Showcase"
+        "Quick Reads",
+				"Our Work"
     ],
     "hide-underscore-slugs-in-lists": true,
     "home-page-slug": "",
