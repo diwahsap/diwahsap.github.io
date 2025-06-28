@@ -53,10 +53,10 @@
         }
     },
     "references": {
-        "site-links-in-page": true,
-        "external-links-in-page": true,
-        "media-and-file-links-in-this-page": true,
-        "links-to-this-page": true,
+        "site-links-in-page": false,
+        "external-links-in-page": false,
+        "media-and-file-links-in-this-page": false,
+        "links-to-this-page": false,
         "popovers": true,
         "footnotes": true
     },
@@ -115,9 +115,9 @@
     },
     "number-of-posts-per-page": 10,
     "enable-lightbox": true,
-    "menu-pages-collection": "main",
+    "menu-pages-collection": "The Lab",
     "heading-blocks": [
-        "The Lab"
+        "main"
     ],
     "full-preview-collections": [
         "The Feed",
